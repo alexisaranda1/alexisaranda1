@@ -1,19 +1,18 @@
-#Alexis Aranda 
+<h1>Alexis Aranda</h1>
 
-### 🎓 Formación
-- 👨‍💻 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**.
-- 📍 Ubicación: Argentina.
+Estudiante de la Tecnicatura Universitaria en Programación en la **UTN**. Mi enfoque principal es el desarrollo **Backend**, con interés en la arquitectura de sistemas y el despliegue de aplicaciones.
 
-### 🛠️ Tecnologías que estoy aprendiendo
-- **Lenguajes:** C, Java, Python (o los que estés viendo).
-- **Herramientas:** Git, GitHub, Visual Studio Code.
+### Perfil Técnico
+*   **Backend:** Especializado en **Node.js** y **NestJS**. Experiencia en el desarrollo de APIs y lógica de servidor.
+*   **Frontend:** Formación actual en **Angular** (UTN).
+*   **Infraestructura y Herramientas:** Conocimientos en **AWS** y **Jenkins**. Manejo fluido de herramientas de monitoreo y rastreo de errores mediante análisis de logs en consola.
+*
 
-### 🚀 Mis Objetivos
-- Profundizar en el desarrollo de software.
-- Colaborar en proyectos de código abierto.
-- Aprender nuevas arquitecturas y buenas prácticas.
+### Formación y Objetivos
+Actualmente profundizo en el ecosistema de Angular y en la optimización de procesos de despliegue. Busco aplicar buenas prácticas de desarrollo para construir herramientas robustas y fáciles de mantener.
 
 ---
-📫 **Cómo contactarme:**
-mail: alexisarandajara@gmail.com
-linkedin: https://www.linkedin.com/in/alexis-aranda-jara/
+
+### Contacto
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+*   **Email:** alexisarandajara@gmail.com
