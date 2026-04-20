@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+Alexis Aranda 
 
 ### 🎓 Formación
 - 👨‍💻 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**.
