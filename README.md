@@ -1,4 +1,4 @@
-Alexis Aranda 
+#Alexis Aranda 
 
 ### 🎓 Formación
 - 👨‍💻 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**.
@@ -15,4 +15,5 @@ Alexis Aranda
 
 ---
 📫 **Cómo contactarme:**
-[Tu LinkedIn o Email]
+mail: alexisarandajara@gmail.com
+linkedin: https://www.linkedin.com/in/alexis-aranda-jara/
