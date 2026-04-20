@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola, soy [Tu Nombre]! 👋
 
-<!--
-**alexisaranda1/alexisaranda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Formación
+- 👨‍💻 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**.
+- 📍 Ubicación: Argentina.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que estoy aprendiendo
+- **Lenguajes:** C, Java, Python (o los que estés viendo).
+- **Herramientas:** Git, GitHub, Visual Studio Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mis Objetivos
+- Profundizar en el desarrollo de software.
+- Colaborar en proyectos de código abierto.
+- Aprender nuevas arquitecturas y buenas prácticas.
+
+---
+📫 **Cómo contactarme:**
+[Tu LinkedIn o Email]
